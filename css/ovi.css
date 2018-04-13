@@ -28,7 +28,6 @@ h2
 	display: block;
 	text-align: center;
 	width: 100%;
-	margin-top: 4%;
 }
 h4
 {
@@ -55,81 +54,29 @@ header
 	width: 450px;
 	margin: 2%;	
 }
-
 p
 {
 	text-align: left;
-	width: 70%;
-}
-.menu{
-	display: block;
-	width: 100%;
-}
-ul, ol{
-	padding: 0px;
-	margin: 0px;
-	list-style: none;
-}
-.nav li a {
-	background: #F47920;
-	color: white;
-	text-decoration: none;
-	padding: 10px 15px;
-	display: block;
-}
-.nav li a: hover {
-	background-color:#F47920;
-	padding: 0px;
-	margin: 0px;
-	border-color: black;
-}
-.nav > li{
-	float: left;
-}
-.nav li ul{
-	display: none;
-	position: absolute;
-	min-width: 140px;
-}
-.nav li:hover> ul{
-	display: block;
-	}
-.nav li a:hover{
-	display: block;
-	color: #005883;
-}
-.nav li ul li{
-	position: relative;
-}
-.nav li ul li ul{
-	right: -140px;
-	top: 0px;
 }
 .principal{
 	display: block;
 	margin: 4%;
-	margin-top: 7%;
-	width: 95%;
+	margin-top: 5%;
+	border-radius: 5px;
+	border-color:gray;
 }
 .text_principal{
 	margin: 1% 0%;
 	text-align: justify;
-	width: 98%;
-}
-footer{	
-	display: inline-block;
-	text-align: center;
-	width: 100%;
-	margin-bottom: 6%;
+	
 }
 a{
 	text-align: center;
 }	
 .multimedia{	
-	width: 50%;
+	width: 90%;
 	height: 400px;
 	text-align: center;
-	margin: 0% 25% 10% 25%;		
 }
 .multi1{
 	width: 60%;
@@ -246,58 +193,35 @@ a{
 margin-bottom: 8%;
 }
 .obj1{	
-	width: 60%;
-	margin: 8% 20% 2% 20%;
 	text-align: center;
 }
 .obj3{
-	width: 88%;
-	margin: 0% 6% 2% 6%;
 	text-align: justify;
 }
 .obj5{
-	width: 88%;
-	margin: 0% 6% 1% 6%;
 	text-align: left;
 }
 .obj6{
-	width: 88%;	
-	margin: 0% 6% 2% 6%;
 	vertical-align: 3%;
 }
 .obj7{
 	display: inline-block;
-	width: 70%;
 	text-align: justify;
-	margin-right: 3%
 }
 .obj8{
 	display: inline-block;	
-	width: 270px;
-	height: 200px;		
 }
 .obj9{
-	width: 88%;
-	margin: 0% 6% 10% 6%;
 	text-align: justify;
-	padding-top: 2%;
 }
 .obj10{	
-	width: 60%;
-	margin: 0% 20% 2% 20%;
 	text-align: center;
 }
 .obj11{
-	width: 80%;	
 	text-align: left;
 	}
 .obj12{
-		margin-bottom: 10%;
 		color:red;		
-	}
-.col-md-8{
-		margin: 0% 10% 2% 10%;
-	
 	}
 	.img1{
 		margin: 0% 10% 2% 10%;
